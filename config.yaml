@@ -1,0 +1,14 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    janedoe:
+      name: Jane Doe
+      password: def
+    johndoe:
+      name: John Doe
+      password: abc
+preauthorized:
+  emails: []
